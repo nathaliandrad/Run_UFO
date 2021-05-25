@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DC4CF718-3517-E230-89ED-C41ADAE3F069}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameOver.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="40" Column="19" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="21" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
